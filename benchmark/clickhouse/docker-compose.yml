@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  clickhouse:
+    image: yandex/clickhouse-server:20.4
+    container_name: clickhouse
+    hostname: clickhouse
+    restart: always
+    ports:
+      - "8123:8123"
+      - "9000:9000"

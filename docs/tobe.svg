@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="823px" preserveAspectRatio="none" style="width:1132px;height:823px;background:#FFFFFF;" version="1.1" viewBox="0 0 1132 823" width="1132px" zoomAndPan="magnify"><defs/><g><!--MD5=[a15c97b4ec28b0d8d2fbd129219312cb]
+cluster web-server--><g id="cluster_web-server"><path d="M352.99,144.5 L435.99,144.5 A3.75,3.75 0 0 1 438.49,147 L445.49,166.9883 L463.99,166.9883 A2.5,2.5 0 0 1 466.49,169.4883 L466.49,239 A2.5,2.5 0 0 1 463.99,241.5 L352.99,241.5 A2.5,2.5 0 0 1 350.49,239 L350.49,147 A2.5,2.5 0 0 1 352.99,144.5 " fill="#90EE90" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="350.49" x2="445.49" y1="166.9883" y2="166.9883"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="82" x="354.49" y="160.0352">web-server</text></g><!--MD5=[bce249632e9f73d36d6ced40079d2d53]
+cluster Auth_API--><g id="cluster_Auth_API"><path d="M8.99,595 L74.99,595 A3.75,3.75 0 0 1 77.49,597.5 L84.49,617.4883 L457.99,617.4883 A2.5,2.5 0 0 1 460.49,619.9883 L460.49,813.5 A2.5,2.5 0 0 1 457.99,816 L8.99,816 A2.5,2.5 0 0 1 6.49,813.5 L6.49,597.5 A2.5,2.5 0 0 1 8.99,595 " fill="#F0FFFF" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="6.49" x2="84.49" y1="617.4883" y2="617.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="65" x="10.49" y="610.5352">Auth_API</text></g><!--MD5=[43e11ae77819885c83b5b603f8dc21c5]
+cluster ETL--><g id="cluster_ETL"><path d="M653.99,290.5 L680.99,290.5 A3.75,3.75 0 0 1 683.49,293 L690.49,312.9883 L798.99,312.9883 A2.5,2.5 0 0 1 801.49,315.4883 L801.49,385 A2.5,2.5 0 0 1 798.99,387.5 L653.99,387.5 A2.5,2.5 0 0 1 651.49,385 L651.49,293 A2.5,2.5 0 0 1 653.99,290.5 " fill="#F0FFFF" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="651.49" x2="690.49" y1="312.9883" y2="312.9883"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="26" x="655.49" y="306.0352">ETL</text></g><!--MD5=[91b84c99c43ea6b2f7d17f54f75ced15]
+cluster Async_FastAPI--><g id="cluster_Async_FastAPI"><path d="M171.99,290.5 L275.99,290.5 A3.75,3.75 0 0 1 278.49,293 L285.49,312.9883 L624.99,312.9883 A2.5,2.5 0 0 1 627.49,315.4883 L627.49,530 A2.5,2.5 0 0 1 624.99,532.5 L171.99,532.5 A2.5,2.5 0 0 1 169.49,530 L169.49,293 A2.5,2.5 0 0 1 171.99,290.5 " fill="#F0FFFF" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="169.49" x2="285.49" y1="312.9883" y2="312.9883"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="103" x="173.49" y="306.0352">Async_FastAPI</text></g><!--MD5=[cf747d7b3994313f37e6174ba414de47]
+cluster Django--><g id="cluster_Django"><path d="M667.99,436.5 L719.99,436.5 A3.75,3.75 0 0 1 722.49,439 L729.49,458.9883 L832.99,458.9883 A2.5,2.5 0 0 1 835.49,461.4883 L835.49,689.5 A2.5,2.5 0 0 1 832.99,692 L667.99,692 A2.5,2.5 0 0 1 665.49,689.5 L665.49,439 A2.5,2.5 0 0 1 667.99,436.5 " fill="#F0FFFF" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="665.49" x2="729.49" y1="458.9883" y2="458.9883"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="51" x="669.49" y="452.0352">Django</text></g><!--MD5=[e77acb49615dfb1c295c96d349f9a913]
+cluster UGC--><g id="cluster_UGC"><path d="M861.99,144.5 L892.99,144.5 A3.75,3.75 0 0 1 895.49,147 L902.49,166.9883 L984.99,166.9883 A2.5,2.5 0 0 1 987.49,169.4883 L987.49,689 A2.5,2.5 0 0 1 984.99,691.5 L861.99,691.5 A2.5,2.5 0 0 1 859.49,689 L859.49,147 A2.5,2.5 0 0 1 861.99,144.5 " fill="#F0FFFF" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="859.49" x2="902.49" y1="166.9883" y2="166.9883"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="30" x="863.49" y="160.0352">UGC</text></g><!--MD5=[52bb74e2ef528211db78d89d6acc3642]
+entity NGINX--><g id="elem_NGINX"><rect fill="#FFFFFF" height="46.4883" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="83" x="366.99" y="179.5"/><rect fill="#FFFFFF" height="10" style="stroke:#181818;stroke-width:0.5;" width="15" x="429.99" y="184.5"/><rect fill="#FFFFFF" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="427.99" y="186.5"/><rect fill="#FFFFFF" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="427.99" y="190.5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="43" x="381.99" y="213.0352">NGINX</text></g><!--MD5=[f09993028045212e75d387f659d0eecf]
+entity Flask_auth_api--><g id="elem_Flask_auth_api"><rect fill="#FFFFFF" height="46.4883" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="141" x="22.99" y="630"/><rect fill="#FFFFFF" height="10" style="stroke:#181818;stroke-width:0.5;" width="15" x="143.99" y="635"/><rect fill="#FFFFFF" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="141.99" y="637"/><rect fill="#FFFFFF" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="141.99" y="641"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="101" x="37.99" y="663.5352">Flask_auth_api</text></g><!--MD5=[87290b6bfb418ba3bf4fe662b7375591]
+entity Postgres_Auth--><g id="elem_Postgres_Auth"><path d="M324.99,640.5 C324.99,630.5 384.49,630.5 384.49,630.5 C384.49,630.5 443.99,630.5 443.99,640.5 L443.99,665.9883 C443.99,675.9883 384.49,675.9883 384.49,675.9883 C384.49,675.9883 324.99,675.9883 324.99,665.9883 L324.99,640.5 " fill="#00FFFF" style="stroke:#181818;stroke-width:0.5;"/><path d="M324.99,640.5 C324.99,650.5 384.49,650.5 384.49,650.5 C384.49,650.5 443.99,650.5 443.99,640.5 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="99" x="334.99" y="668.0352">Postgres_Auth</text></g><!--MD5=[2d502e071828011368c1d1b4730b7f33]
+entity Redis_auth--><g id="elem_Redis_auth"><path d="M83.99,765 C83.99,755 131.49,755 131.49,755 C131.49,755 178.99,755 178.99,765 L178.99,790.4883 C178.99,800.4883 131.49,800.4883 131.49,800.4883 C131.49,800.4883 83.99,800.4883 83.99,790.4883 L83.99,765 " fill="#F1F1F1" style="stroke:#181818;stroke-width:0.5;"/><path d="M83.99,765 C83.99,775 131.49,775 131.49,775 C131.49,775 178.99,775 178.99,765 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="75" x="93.99" y="792.5352">Redis_auth</text></g><!--MD5=[2671376a2baca5d64fd55f52d80d8253]
+entity ETL_service--><g id="elem_ETL_service"><rect fill="#FFFFFF" height="46.4883" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="118" x="667.49" y="325.5"/><rect fill="#FFFFFF" height="10" style="stroke:#181818;stroke-width:0.5;" width="15" x="765.49" y="330.5"/><rect fill="#FFFFFF" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="763.49" y="332.5"/><rect fill="#FFFFFF" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="763.49" y="336.5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="78" x="682.49" y="359.0352">ETL_service</text></g><!--MD5=[d7b4a402bde6191a54ab4d008e83f926]
+entity Fast_API--><g id="elem_Fast_API"><rect fill="#FFFFFF" height="46.4883" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="97" x="285.99" y="325.5"/><rect fill="#FFFFFF" height="10" style="stroke:#181818;stroke-width:0.5;" width="15" x="362.99" y="330.5"/><rect fill="#FFFFFF" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="360.99" y="332.5"/><rect fill="#FFFFFF" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="360.99" y="336.5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="57" x="300.99" y="359.0352">Fast_API</text></g><!--MD5=[b09dc49634ea5d27a4d74e8ef6195a9c]
+entity ElasticSearch--><g id="elem_ElasticSearch"><path d="M311.99,481.5 C311.99,471.5 366.49,471.5 366.49,471.5 C366.49,471.5 420.99,471.5 420.99,481.5 L420.99,506.9883 C420.99,516.9883 366.49,516.9883 366.49,516.9883 C366.49,516.9883 311.99,516.9883 311.99,506.9883 L311.99,481.5 " fill="#FFB6C1" style="stroke:#181818;stroke-width:0.5;"/><path d="M311.99,481.5 C311.99,491.5 366.49,491.5 366.49,491.5 C366.49,491.5 420.99,491.5 420.99,481.5 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="89" x="321.99" y="509.0352">ElasticSearch</text></g><!--MD5=[6f45e45994c9d2ff982ecf2a72fa7bec]
+entity Redis_cache--><g id="elem_Redis_cache"><path d="M492.99,481.5 C492.99,471.5 544.49,471.5 544.49,471.5 C544.49,471.5 595.99,471.5 595.99,481.5 L595.99,506.9883 C595.99,516.9883 544.49,516.9883 544.49,516.9883 C544.49,516.9883 492.99,516.9883 492.99,506.9883 L492.99,481.5 " fill="#F1F1F1" style="stroke:#181818;stroke-width:0.5;"/><path d="M492.99,481.5 C492.99,491.5 544.49,491.5 544.49,491.5 C544.49,491.5 595.99,491.5 595.99,481.5 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="83" x="502.99" y="509.0352">Redis_cache</text></g><!--MD5=[34a67430baef43c9425d9c42d9371c3b]
+entity Movies_admin--><g id="elem_Movies_admin"><rect fill="#FFFFFF" height="46.4883" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="137" x="681.99" y="630"/><rect fill="#FFFFFF" height="10" style="stroke:#181818;stroke-width:0.5;" width="15" x="798.99" y="635"/><rect fill="#FFFFFF" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="796.99" y="637"/><rect fill="#FFFFFF" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="796.99" y="641"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="97" x="696.99" y="663.5352">Movies_admin</text></g><!--MD5=[7fbd20eab0f047d95d8cf961cd333b40]
+entity Postgres--><g id="elem_Postgres"><path d="M731.99,481.5 C731.99,471.5 771.49,471.5 771.49,471.5 C771.49,471.5 810.99,471.5 810.99,481.5 L810.99,506.9883 C810.99,516.9883 771.49,516.9883 771.49,516.9883 C771.49,516.9883 731.99,516.9883 731.99,506.9883 L731.99,481.5 " fill="#00FFFF" style="stroke:#181818;stroke-width:0.5;"/><path d="M731.99,481.5 C731.99,491.5 771.49,491.5 771.49,491.5 C771.49,491.5 810.99,491.5 810.99,481.5 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="59" x="741.99" y="509.0352">Postgres</text></g><!--MD5=[ec17687cc759ccb934025a3407e81c44]
+entity ugc_api--><g id="elem_ugc_api"><rect fill="#FFFFFF" height="46.4883" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="93" x="875.99" y="179.5"/><rect fill="#FFFFFF" height="10" style="stroke:#181818;stroke-width:0.5;" width="15" x="948.99" y="184.5"/><rect fill="#FFFFFF" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="946.99" y="186.5"/><rect fill="#FFFFFF" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="946.99" y="190.5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="53" x="890.99" y="213.0352">ugc_api</text></g><!--MD5=[59ceac3e1bb6f0ece56988f2042cffc2]
+entity Kafka--><g id="elem_Kafka"><path d="M889.49,335.5 L937.49,335.5 C942.49,335.5 942.49,348.7441 942.49,348.7441 C942.49,348.7441 942.49,361.9883 937.49,361.9883 L889.49,361.9883 C884.49,361.9883 884.49,348.7441 884.49,348.7441 C884.49,348.7441 884.49,335.5 889.49,335.5 " fill="#808080" style="stroke:#181818;stroke-width:0.5;"/><path d="M937.49,335.5 C932.49,335.5 932.49,348.7441 932.49,348.7441 C932.49,361.9883 937.49,361.9883 937.49,361.9883 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="38" x="889.49" y="354.0352">Kafka</text></g><!--MD5=[e39b5510b9df8a85b5a394f0a9df859b]
+entity etl--><g id="elem_etl"><rect fill="#FFFFFF" height="46.4883" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="57" x="879.99" y="471"/><rect fill="#FFFFFF" height="10" style="stroke:#181818;stroke-width:0.5;" width="15" x="916.99" y="476"/><rect fill="#FFFFFF" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="914.99" y="478"/><rect fill="#FFFFFF" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="914.99" y="482"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="17" x="894.99" y="504.5352">etl</text></g><!--MD5=[5ca90515ce9edffbcf73183d2ba5ee9c]
+entity Clickhouse--><g id="elem_Clickhouse"><path d="M875.99,640.5 C875.99,630.5 923.49,630.5 923.49,630.5 C923.49,630.5 970.99,630.5 970.99,640.5 L970.99,665.9883 C970.99,675.9883 923.49,675.9883 923.49,675.9883 C923.49,675.9883 875.99,675.9883 875.99,665.9883 L875.99,640.5 " fill="#00FFFF" style="stroke:#181818;stroke-width:0.5;"/><path d="M875.99,640.5 C875.99,650.5 923.49,650.5 923.49,650.5 C923.49,650.5 970.99,650.5 970.99,640.5 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="75" x="885.99" y="668.0352">Clickhouse</text></g><!--MD5=[0ba5ee7700168656dc1b457c6fe9fdac]
+entity Client--><g id="elem_Client"><ellipse cx="503.49" cy="14" fill="#F1F1F1" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><path d="M503.49,22 L503.49,49 M490.49,30 L516.49,30 M503.49,49 L490.49,64 M503.49,49 L516.49,64 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="40" x="483.49" y="79.0352">Client</text></g><!--MD5=[18b863274bd79bdc8bd190abbb005e4b]
+entity Analytic--><g id="elem_Analytic"><ellipse cx="1051.49" cy="464.5" fill="#F1F1F1" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><path d="M1051.49,472.5 L1051.49,499.5 M1038.49,480.5 L1064.49,480.5 M1051.49,499.5 L1038.49,514.5 M1051.49,499.5 L1064.49,514.5 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="54" x="1024.49" y="529.5352">Analytic</text></g><g id="elem_GMN15921"><path d="M558.99,31 L558.99,39.5 L523.8,43.5 L558.99,47.5 L558.99,56.3105 A0,0 0 0 0 558.99,56.3105 L767.99,56.3105 A0,0 0 0 0 767.99,56.3105 L767.99,41 L757.99,31 L558.99,31 A0,0 0 0 0 558.99,31 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M757.99,31 L757.99,41 L767.99,41 L757.99,31 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="188" x="564.99" y="48.5684">Клиентский запрос на фильм</text></g><!--MD5=[cac7c1a686f391e437c462811a8d053d]
+link Client to NGINX--><g id="link_Client_NGINX"><path d="M483.35,74.25 C475.71,85.78 467.03,99.15 459.49,111.5 C446.63,132.55 432.89,156.92 422.91,174.99 " fill="none" id="Client-to-NGINX" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="420.46,179.44,428.3044,173.4847,422.8712,175.0598,421.2961,169.6267,420.46,179.44" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="58" x="460.49" y="125.0684">1. фильм</text></g><!--MD5=[85690e01bd46bbba3c24af5550d008a9]
+reverse link Client to NGINX--><!--MD5=[85690e01bd46bbba3c24af5550d008a9]
+reverse link Client to NGINX--><g id="link_Client_NGINX"><path d="M477.86,49.29 C446.7,56.65 395.42,74.01 372.49,111.5 C359.23,133.18 374.14,160.59 388.6,179.44 " fill="none" id="Client-backto-NGINX-1" style="stroke:#008000;stroke-width:1.0;"/><polygon fill="#008000" points="483.06,48.12,473.4,46.2006,478.1828,49.2213,475.1621,54.0041,483.06,48.12" style="stroke:#008000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="66" x="373.49" y="125.0684">14. фильм</text></g><!--MD5=[26206a335e5419d5904b943610fbe074]
+link NGINX to Fast_API--><g id="link_NGINX_Fast_API"><path d="M408.61,225.53 C407.93,240.03 405.55,259.11 398.49,274.5 C390.34,292.29 376.42,308.95 363.64,321.86 " fill="none" id="NGINX-to-Fast_API" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="360.07,325.39,369.2836,321.9102,363.6269,321.876,363.6612,316.2192,360.07,325.39" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="58" x="404.49" y="271.0684">2. фильм</text></g><!--MD5=[46b4efcdc6514990a1206753dcbd8961]
+reverse link NGINX to Fast_API--><g id="link_NGINX_Fast_API"><path d="M361.96,211.23 C334.99,218.36 303.14,231.92 286.49,257.5 C272,279.76 290.97,306.83 309.16,325.44 " fill="none" id="NGINX-backto-Fast_API" style="stroke:#008000;stroke-width:1.0;"/><polygon fill="#008000" points="366.94,209.97,357.2339,208.2991,362.0927,211.1961,359.1957,216.0548,366.94,209.97" style="stroke:#008000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="65" x="287.49" y="271.0684">13. держи</text></g><!--MD5=[46b4efcdc6514990a1206753dcbd8961]
+reverse link NGINX to Fast_API--><!--MD5=[1c01e20804ce96d0c8ad4c00b8ef7bce]
+link Fast_API to Flask_auth_api--><g id="link_Fast_API_Flask_auth_api"><path d="M285.84,355.88 C212.38,366.64 78.68,390.95 50.49,428.5 C6,487.77 49.78,580.16 76.37,625.33 " fill="none" id="Fast_API-to-Flask_auth_api" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="79.05,629.81,77.8878,620.03,76.4943,625.5125,71.0118,624.119,79.05,629.81" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="67" x="51.49" y="499.0684">3. кто это?</text></g><!--MD5=[78a0cf9fa546661f4db836df5edd6b8c]
+reverse link Fast_API to Flask_auth_api--><g id="link_Fast_API_Flask_auth_api"><path d="M281,365.07 C255.78,373.93 226.13,386.67 202.49,403.5 C190.43,412.08 188.18,415.85 180.49,428.5 C138.95,496.8 110.78,588.37 99.29,629.89 " fill="none" id="Fast_API-backto-Flask_auth_api" style="stroke:#008000;stroke-width:1.0;"/><polygon fill="#008000" points="285.98,363.35,276.1672,362.5079,281.254,364.9826,278.7794,370.0694,285.98,363.35" style="stroke:#008000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="112" x="181.49" y="499.0684">8. все нормально</text></g><!--MD5=[f0c6420a285c16cfcb07ddf795dc564a]
+link Flask_auth_api to Postgres_Auth--><g id="link_Flask_auth_api_Postgres_Auth"><path d="M164.3,653 C211.61,653 273.36,653 319.42,653 " fill="none" id="Flask_auth_api-to-Postgres_Auth" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="324.68,653,315.68,649,319.68,653,315.68,657,324.68,653" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="124" x="182.49" y="646.5684">4. есть такой юзер?</text></g><!--MD5=[affd233ea02402032ac568b0a09d22aa]
+reverse link Flask_auth_api to Postgres_Auth--><g id="link_Flask_auth_api_Postgres_Auth"><path d="M169.04,668.44 C197.92,672.65 231.18,675.45 261.49,673 C282.3,671.32 304.9,668.06 324.98,664.66 " fill="none" id="Flask_auth_api-backto-Postgres_Auth" style="stroke:#008000;stroke-width:1.0;"/><polygon fill="#008000" points="164.08,667.7,172.3856,672.9932,169.0245,668.4431,173.5745,665.082,164.08,667.7" style="stroke:#008000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="32" x="228.49" y="669.5684">5. да</text></g><!--MD5=[1cd36605174e843be4315a6d418add46]
+link Flask_auth_api to Redis_auth--><g id="link_Flask_auth_api_Redis_auth"><path d="M100.37,676.18 C106.81,696.95 116.45,728 123.29,750.05 " fill="none" id="Flask_auth_api-to-Redis_auth" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="124.79,754.89,125.9417,745.1087,123.3076,750.1148,118.3015,747.4806,124.79,754.89" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="149" x="115.49" y="721.5684">6. токен действителен?</text></g><!--MD5=[1cd36605174e843be4315a6d418add46]
+link Flask_auth_api to Redis_auth--><!--MD5=[19513e8c80f6b38b44a05107fc72317e]
+reverse link Flask_auth_api to Redis_auth--><g id="link_Flask_auth_api_Redis_auth"><path d="M65.33,680.35 C54.56,693.69 46.56,710.16 54.49,725 C61.08,737.34 72.09,747.24 83.74,754.94 " fill="none" id="Flask_auth_api-backto-Redis_auth" style="stroke:#008000;stroke-width:1.0;"/><polygon fill="#008000" points="68.75,676.31,59.8823,680.5952,65.5196,680.1264,65.9885,685.7638,68.75,676.31" style="stroke:#008000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="32" x="55.49" y="721.5684">7. да</text></g><!--MD5=[498db914869202184add1a1d1c167a22]
+link Fast_API to Redis_cache--><g id="link_Fast_API_Redis_cache"><path d="M383.36,354 C420.84,359.8 471.71,373.09 505.49,403.5 C523.72,419.91 533.81,446.37 539.13,466.28 " fill="none" id="Fast_API-to-Redis_cache" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="540.38,471.18,542.0441,461.4727,539.1505,466.3335,534.2897,463.4399,540.38,471.18" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="58" x="519.49" y="417.0684">9. фильм</text></g><!--MD5=[498db914869202184add1a1d1c167a22]
+link Fast_API to Redis_cache--><!--MD5=[cc0435054c45af87ea6f41b08b601d27]
+reverse link Fast_API to Redis_cache--><g id="link_Fast_API_Redis_cache"><path d="M370.02,374.81 C389.31,388.47 413.61,405.54 435.49,420.5 C460.82,437.82 489.74,457.03 511.43,471.33 " fill="none" id="Fast_API-backto-Redis_cache" style="stroke:#FF0000;stroke-width:1.0;"/><polygon fill="#FF0000" points="365.74,371.78,370.7499,380.2594,369.8125,374.6808,375.3912,373.7434,365.74,371.78" style="stroke:#FF0000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="60" x="436.49" y="417.0684">10. пусто</text></g><!--MD5=[b7a57932b18d1d3ee7d40dfffa0e685e]
+link Fast_API to ElasticSearch--><g id="link_Fast_API_ElasticSearch"><path d="M330.58,371.53 C328.8,385.69 327.8,404.38 331.49,420.5 C335.21,436.78 343.09,453.66 350.42,467.03 " fill="none" id="Fast_API-to-ElasticSearch" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="352.89,471.42,351.9777,461.6135,350.4448,467.0587,344.9996,465.5258,352.89,471.42" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="66" x="332.49" y="417.0684">11. фильм</text></g><!--MD5=[02d656cf20a7866fc937e1ba45321d38]
+reverse link Fast_API to ElasticSearch--><g id="link_Fast_API_ElasticSearch"><path d="M280.63,361.69 C239.44,373.44 193.47,393.44 217.49,420.5 C227.44,431.71 270.64,422.76 284.49,428.5 C307.92,438.2 330.25,456.58 345.67,471.25 " fill="none" id="Fast_API-backto-ElasticSearch" style="stroke:#008000;stroke-width:1.0;"/><polygon fill="#008000" points="285.62,360.3,275.8762,358.8652,280.8038,361.6434,278.0256,366.571,285.62,360.3" style="stroke:#008000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="65" x="218.49" y="417.0684">12. держи</text></g><!--MD5=[02d656cf20a7866fc937e1ba45321d38]
+reverse link Fast_API to ElasticSearch--><!--MD5=[6e4f3b35cbbd357670d4264c6d4f85a7]
+reverse link Postgres to Movies_admin--><g id="link_Postgres_Movies_admin"><path d="M767.93,521.58 C763.87,552 757.28,601.27 753.47,629.75 " fill="none" id="Postgres-backto-Movies_admin" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="768.61,516.5,763.4382,524.8817,767.9389,521.4548,771.3658,525.9554,768.61,516.5" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[c7a0413c9baefa347f334c82d345b77f]
+link ETL_service to ElasticSearch--><g id="link_ETL_service_ElasticSearch"><path d="M678.55,371.67 C647.97,388.27 607.83,409.86 569.49,420.5 C521.83,433.72 505.7,413.74 458.49,428.5 C430.98,437.1 403.06,453.81 384.65,468.06 " fill="none" id="ETL_service-to-ElasticSearch" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="380.64,471.25,390.1733,468.7767,384.5527,468.137,385.1924,462.5164,380.64,471.25" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[c7a0413c9baefa347f334c82d345b77f]
+link ETL_service to ElasticSearch--><!--MD5=[78ed754550bbf4805215db50472484e9]
+reverse link ETL_service to Postgres--><g id="link_ETL_service_Postgres"><path d="M747.9,376.05 C753.57,384.39 759.06,393.92 762.49,403.5 C770.45,425.7 772.15,452.85 772.2,471.38 " fill="none" id="ETL_service-backto-Postgres" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="744.75,371.55,746.6365,381.2165,747.6183,375.6455,753.1893,376.6273,744.75,371.55" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[ddd5e5f58151f86c0676d7bf5241f17e]
+link Client to ugc_api--><g id="link_Client_ugc_api"><path d="M523.71,67.56 C529.08,72.69 535.17,77.72 541.49,81.5 C649.11,145.81 794.73,179.13 871.01,193.16 " fill="none" id="Client-to-ugc_api" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="875.94,194.06,867.7894,188.5312,871.0188,193.1756,866.3744,196.405,875.94,194.06" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="146" x="629.49" y="125.0684">15. Закончил смотреть</text></g><!--MD5=[58b324c97b274d77efd4190d5d9dc031]
+link ugc_api to Kafka--><g id="link_ugc_api_Kafka"><path d="M921.1,225.68 C919.31,254.41 916.22,303.88 914.58,330.07 " fill="none" id="ugc_api-to-Kafka" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="914.25,335.29,918.8083,326.5595,914.5646,330.2999,910.8241,326.0562,914.25,335.29" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[e6e2878d92f22db32b5484c6887ba43a]
+link Kafka to etl--><g id="link_Kafka_etl"><path d="M913.06,361.73 C912.27,384.61 910.53,434.36 909.44,465.62 " fill="none" id="Kafka-to-etl" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="909.26,470.85,913.566,461.9923,909.4313,465.8529,905.5707,461.7182,909.26,470.85" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[4189b673caddee5564954fd825459f20]
+link etl to Clickhouse--><g id="link_etl_Clickhouse"><path d="M903.39,517.19 C900.22,534.18 897.28,558.15 900.49,579 C902.92,594.79 908.14,611.85 912.99,625.51 " fill="none" id="etl-to-Clickhouse" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="914.76,630.37,915.4603,620.5461,913.0593,625.6681,907.9373,623.2672,914.76,630.37" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[12267bd1a215ae579ab3f1a569420119]
+link Analytic to Clickhouse--><g id="link_Analytic_Clickhouse"><path d="M1024.39,516.44 C1013.34,524.6 1000.18,533.59 987.49,540.5 C964.8,552.85 949.15,541.46 933.49,562 C919.9,579.83 918.35,605.72 919.64,625.16 " fill="none" id="Analytic-to-Clickhouse" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="920.07,630.46,923.311,621.1597,919.656,625.4772,915.3385,621.8221,920.07,630.46" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="108" x="934.49" y="575.5684">16. Эксперимент</text></g><!--MD5=[a819f4fb674f3c6e23416e06f4152875]
+reverse link Analytic to Clickhouse--><g id="link_Analytic_Clickhouse"><path d="M1057.25,537.51 C1057.2,551.58 1054.88,566.76 1047.49,579 C1030.58,607.02 998.5,625.47 971.21,636.82 " fill="none" id="Analytic-backto-Clickhouse" style="stroke:#008000;stroke-width:1.0;"/><polygon fill="#008000" points="1057.17,532.39,1053.299,541.4462,1057.2414,537.3895,1061.2982,541.3319,1057.17,532.39" style="stroke:#008000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="70" x="1054.49" y="575.5684">17. Инсайт</text></g><!--MD5=[4a008a616e8468f2d262400706f46352]
+@startuml
+"Client"
+"Analytic"
+
+package web-server #LightGreen {
+    [NGINX] #White
+}
+package Auth_API {
+    [Flask_auth_api] #White
+    database Postgres_Auth #Aqua
+    database Redis_auth
+}
+package ETL {
+    [ETL_service] #White
+}
+package Async_FastAPI {
+    [Fast_API] #White
+    database ElasticSearch #LightPink
+    database Redis_cache
+}
+package Django {
+    [Movies_admin] #White
+    database Postgres #Aqua
+}
+
+package UGC {
+    [ugc_api] #White
+    queue Kafka #Gray
+    [etl] #White
+    database Clickhouse #Aqua
+}
+
+'- - - - - - - - - - - -Связи - - - - - - - - - - - - - - -
+[Client] - -> [NGINX]: 1. фильм
+[NGINX] - -> [Fast_API]: 2. фильм
+[Fast_API] - - -> [Flask_auth_api]: 3. кто это?
+[Flask_auth_api] -r-> Postgres_Auth: 4. есть такой юзер?
+[Flask_auth_api] <-[#green] Postgres_Auth: 5. да
+[Flask_auth_api] - -> [Redis_auth]: 6. токен действителен?
+[Flask_auth_api] -[hidden]-> [Redis_auth]
+[Flask_auth_api] <-[#green] [Redis_auth]: 7. да
+[Fast_API] <-[#green]- [Flask_auth_api]: 8. все нормально
+[Fast_API] - -> Redis_cache: 9. фильм
+[Fast_API] -[hidden]-> Redis_cache
+[Fast_API] <-[#red]- Redis_cache: 10. пусто
+[Fast_API] -r-> ElasticSearch: 11. фильм
+[Fast_API] <-[#green]- ElasticSearch: 12. держи
+[Fast_API] <-[hidden]- ElasticSearch
+[NGINX] <-[#green]- [Fast_API]: 13. держи
+[NGINX] <-[hidden]- [Fast_API]
+[Client] <-[hidden]- [NGINX]
+[Client] <-[#green]- [NGINX]: 14. фильм
+Postgres <- - [Movies_admin]
+[ETL_service] - -> ElasticSearch
+[ETL_service] -[hidden]-> ElasticSearch
+[ETL_service] <- - Postgres
+[Client] - -> [ugc_api]: 15. Закончил смотреть
+[ugc_api] - -> Kafka
+Kafka - -> [etl]
+[etl] - -> Clickhouse
+[Analytic] - -> Clickhouse: 16. Эксперимент
+[Analytic] <-[#green]- Clickhouse: 17. Инсайт
+
+'- - - - - - - - - Комментарии - - - - - - - - - -
+note right of [Client]: Клиентский запрос на фильм
+
+'- - - - - - - - - Раскраска - - - - - - - - - - - -
+skinparam PackageBackgroundColor Azure
+skinparam ArrowColor Black
+@enduml
+
+@startuml
+"Client"
+"Analytic"
+
+package web-server #LightGreen {
+    [NGINX] #White
+}
+package Auth_API {
+    [Flask_auth_api] #White
+    database Postgres_Auth #Aqua
+    database Redis_auth
+}
+package ETL {
+    [ETL_service] #White
+}
+package Async_FastAPI {
+    [Fast_API] #White
+    database ElasticSearch #LightPink
+    database Redis_cache
+}
+package Django {
+    [Movies_admin] #White
+    database Postgres #Aqua
+}
+
+package UGC {
+    [ugc_api] #White
+    queue Kafka #Gray
+    [etl] #White
+    database Clickhouse #Aqua
+}
+
+[Client] - -> [NGINX]: 1. фильм
+[NGINX] - -> [Fast_API]: 2. фильм
+[Fast_API] - - -> [Flask_auth_api]: 3. кто это?
+[Flask_auth_api] -r-> Postgres_Auth: 4. есть такой юзер?
+[Flask_auth_api] <-[#green] Postgres_Auth: 5. да
+[Flask_auth_api] - -> [Redis_auth]: 6. токен действителен?
+[Flask_auth_api] -[hidden]-> [Redis_auth]
+[Flask_auth_api] <-[#green] [Redis_auth]: 7. да
+[Fast_API] <-[#green]- [Flask_auth_api]: 8. все нормально
+[Fast_API] - -> Redis_cache: 9. фильм
+[Fast_API] -[hidden]-> Redis_cache
+[Fast_API] <-[#red]- Redis_cache: 10. пусто
+[Fast_API] -r-> ElasticSearch: 11. фильм
+[Fast_API] <-[#green]- ElasticSearch: 12. держи
+[Fast_API] <-[hidden]- ElasticSearch
+[NGINX] <-[#green]- [Fast_API]: 13. держи
+[NGINX] <-[hidden]- [Fast_API]
+[Client] <-[hidden]- [NGINX]
+[Client] <-[#green]- [NGINX]: 14. фильм
+Postgres <- - [Movies_admin]
+[ETL_service] - -> ElasticSearch
+[ETL_service] -[hidden]-> ElasticSearch
+[ETL_service] <- - Postgres
+[Client] - -> [ugc_api]: 15. Закончил смотреть
+[ugc_api] - -> Kafka
+Kafka - -> [etl]
+[etl] - -> Clickhouse
+[Analytic] - -> Clickhouse: 16. Эксперимент
+[Analytic] <-[#green]- Clickhouse: 17. Инсайт
+
+note right of [Client]: Клиентский запрос на фильм
+
+skinparam PackageBackgroundColor Azure
+skinparam ArrowColor Black
+@enduml
+
+PlantUML version 1.2022.5(Sat Apr 30 13:55:52 MSK 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: ru
+Country: RU
+--></g></svg>

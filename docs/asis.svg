@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="793px" preserveAspectRatio="none" style="width:1188px;height:793px;background:#FFFFFF;" version="1.1" viewBox="0 0 1188 793" width="1188px" zoomAndPan="magnify"><defs/><g><!--MD5=[a15c97b4ec28b0d8d2fbd129219312cb]
+cluster web-server--><g id="cluster_web-server"><path d="M508.5,144.5 L597.5,144.5 A3.75,3.75 0 0 1 600,147 L607,166.7969 L621.5,166.7969 A2.5,2.5 0 0 1 624,169.2969 L624,239 A2.5,2.5 0 0 1 621.5,241.5 L508.5,241.5 A2.5,2.5 0 0 1 506,239 L506,147 A2.5,2.5 0 0 1 508.5,144.5 " fill="#90EE90" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="506" x2="607" y1="166.7969" y2="166.7969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="88" x="510" y="159.4951">web-server</text></g><!--MD5=[bce249632e9f73d36d6ced40079d2d53]
+cluster Auth_API--><g id="cluster_Auth_API"><path d="M713.5,565.5 L786.5,565.5 A3.75,3.75 0 0 1 789,568 L796,587.7969 L1178.5,587.7969 A2.5,2.5 0 0 1 1181,590.2969 L1181,784 A2.5,2.5 0 0 1 1178.5,786.5 L713.5,786.5 A2.5,2.5 0 0 1 711,784 L711,568 A2.5,2.5 0 0 1 713.5,565.5 " fill="#F0FFFF" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="711" x2="796" y1="587.7969" y2="587.7969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="72" x="715" y="580.4951">Auth_API</text></g><!--MD5=[43e11ae77819885c83b5b603f8dc21c5]
+cluster ETL--><g id="cluster_ETL"><path d="M74.5,290.5 L104.5,290.5 A3.75,3.75 0 0 1 107,293 L114,312.7969 L225.5,312.7969 A2.5,2.5 0 0 1 228,315.2969 L228,385 A2.5,2.5 0 0 1 225.5,387.5 L74.5,387.5 A2.5,2.5 0 0 1 72,385 L72,293 A2.5,2.5 0 0 1 74.5,290.5 " fill="#F0FFFF" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="72" x2="114" y1="312.7969" y2="312.7969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="29" x="76" y="305.4951">ETL</text></g><!--MD5=[91b84c99c43ea6b2f7d17f54f75ced15]
+cluster Async_FastAPI--><g id="cluster_Async_FastAPI"><path d="M254.5,290.5 L372.5,290.5 A3.75,3.75 0 0 1 375,293 L382,312.7969 L717.5,312.7969 A2.5,2.5 0 0 1 720,315.2969 L720,530 A2.5,2.5 0 0 1 717.5,532.5 L254.5,532.5 A2.5,2.5 0 0 1 252,530 L252,293 A2.5,2.5 0 0 1 254.5,290.5 " fill="#F0FFFF" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="252" x2="382" y1="312.7969" y2="312.7969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="117" x="256" y="305.4951">Async_FastAPI</text></g><!--MD5=[cf747d7b3994313f37e6174ba414de47]
+cluster Django--><g id="cluster_Django"><path d="M8.5,436.5 L65.5,436.5 A3.75,3.75 0 0 1 68,439 L75,458.7969 L175.5,458.7969 A2.5,2.5 0 0 1 178,461.2969 L178,660 A2.5,2.5 0 0 1 175.5,662.5 L8.5,662.5 A2.5,2.5 0 0 1 6,660 L6,439 A2.5,2.5 0 0 1 8.5,436.5 " fill="#F0FFFF" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="6" x2="75" y1="458.7969" y2="458.7969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="56" x="10" y="451.4951">Django</text></g><!--MD5=[52bb74e2ef528211db78d89d6acc3642]
+entity NGINX--><g id="elem_NGINX"><rect fill="#FFFFFF" height="46.2969" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="85" x="522.5" y="179.5"/><rect fill="#FFFFFF" height="10" style="stroke:#181818;stroke-width:0.5;" width="15" x="587.5" y="184.5"/><rect fill="#FFFFFF" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="585.5" y="186.5"/><rect fill="#FFFFFF" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="585.5" y="190.5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="45" x="537.5" y="212.4951">NGINX</text></g><!--MD5=[f09993028045212e75d387f659d0eecf]
+entity Flask_auth_api--><g id="elem_Flask_auth_api"><rect fill="#FFFFFF" height="46.2969" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="144" x="727" y="600.5"/><rect fill="#FFFFFF" height="10" style="stroke:#181818;stroke-width:0.5;" width="15" x="851" y="605.5"/><rect fill="#FFFFFF" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="849" y="607.5"/><rect fill="#FFFFFF" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="849" y="611.5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="104" x="742" y="633.4951">Flask_auth_api</text></g><!--MD5=[87290b6bfb418ba3bf4fe662b7375591]
+entity Postgres_Auth--><g id="elem_Postgres_Auth"><path d="M1041,611 C1041,601 1103,601 1103,601 C1103,601 1165,601 1165,611 L1165,636.2969 C1165,646.2969 1103,646.2969 1103,646.2969 C1103,646.2969 1041,646.2969 1041,636.2969 L1041,611 " fill="#00FFFF" style="stroke:#181818;stroke-width:0.5;"/><path d="M1041,611 C1041,621 1103,621 1103,621 C1103,621 1165,621 1165,611 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="104" x="1051" y="637.9951">Postgres_Auth</text></g><!--MD5=[2d502e071828011368c1d1b4730b7f33]
+entity Redis_auth--><g id="elem_Redis_auth"><path d="M789,735.5 C789,725.5 838,725.5 838,725.5 C838,725.5 887,725.5 887,735.5 L887,760.7969 C887,770.7969 838,770.7969 838,770.7969 C838,770.7969 789,770.7969 789,760.7969 L789,735.5 " fill="#F1F1F1" style="stroke:#181818;stroke-width:0.5;"/><path d="M789,735.5 C789,745.5 838,745.5 838,745.5 C838,745.5 887,745.5 887,735.5 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="78" x="799" y="762.4951">Redis_auth</text></g><!--MD5=[2671376a2baca5d64fd55f52d80d8253]
+entity ETL_service--><g id="elem_ETL_service"><rect fill="#FFFFFF" height="46.2969" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="124" x="88" y="325.5"/><rect fill="#FFFFFF" height="10" style="stroke:#181818;stroke-width:0.5;" width="15" x="192" y="330.5"/><rect fill="#FFFFFF" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="190" y="332.5"/><rect fill="#FFFFFF" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="190" y="336.5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="84" x="103" y="358.4951">ETL_service</text></g><!--MD5=[d7b4a402bde6191a54ab4d008e83f926]
+entity Fast_API--><g id="elem_Fast_API"><rect fill="#FFFFFF" height="46.2969" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="100" x="515" y="325.5"/><rect fill="#FFFFFF" height="10" style="stroke:#181818;stroke-width:0.5;" width="15" x="595" y="330.5"/><rect fill="#FFFFFF" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="593" y="332.5"/><rect fill="#FFFFFF" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="593" y="336.5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="60" x="530" y="358.4951">Fast_API</text></g><!--MD5=[b09dc49634ea5d27a4d74e8ef6195a9c]
+entity ElasticSearch--><g id="elem_ElasticSearch"><path d="M268,481.5 C268,471.5 326,471.5 326,471.5 C326,471.5 384,471.5 384,481.5 L384,506.7969 C384,516.7969 326,516.7969 326,516.7969 C326,516.7969 268,516.7969 268,506.7969 L268,481.5 " fill="#FFB6C1" style="stroke:#181818;stroke-width:0.5;"/><path d="M268,481.5 C268,491.5 326,491.5 326,491.5 C326,491.5 384,491.5 384,481.5 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="96" x="278" y="508.4951">ElasticSearch</text></g><!--MD5=[6f45e45994c9d2ff982ecf2a72fa7bec]
+entity Redis_cache--><g id="elem_Redis_cache"><path d="M545,481.5 C545,471.5 599,471.5 599,471.5 C599,471.5 653,471.5 653,481.5 L653,506.7969 C653,516.7969 599,516.7969 599,516.7969 C599,516.7969 545,516.7969 545,506.7969 L545,481.5 " fill="#F1F1F1" style="stroke:#181818;stroke-width:0.5;"/><path d="M545,481.5 C545,491.5 599,491.5 599,491.5 C599,491.5 653,491.5 653,481.5 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="88" x="555" y="508.4951">Redis_cache</text></g><!--MD5=[34a67430baef43c9425d9c42d9371c3b]
+entity Movies_admin--><g id="elem_Movies_admin"><rect fill="#FFFFFF" height="46.2969" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="140" x="22" y="600.5"/><rect fill="#FFFFFF" height="10" style="stroke:#181818;stroke-width:0.5;" width="15" x="142" y="605.5"/><rect fill="#FFFFFF" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="140" y="607.5"/><rect fill="#FFFFFF" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="140" y="611.5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="100" x="37" y="633.4951">Movies_admin</text></g><!--MD5=[7fbd20eab0f047d95d8cf961cd333b40]
+entity Postgres--><g id="elem_Postgres"><path d="M50.5,481.5 C50.5,471.5 92,471.5 92,471.5 C92,471.5 133.5,471.5 133.5,481.5 L133.5,506.7969 C133.5,516.7969 92,516.7969 92,516.7969 C92,516.7969 50.5,516.7969 50.5,506.7969 L50.5,481.5 " fill="#00FFFF" style="stroke:#181818;stroke-width:0.5;"/><path d="M50.5,481.5 C50.5,491.5 92,491.5 92,491.5 C92,491.5 133.5,491.5 133.5,481.5 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="63" x="60.5" y="508.4951">Postgres</text></g><!--MD5=[0ba5ee7700168656dc1b457c6fe9fdac]
+entity Client--><g id="elem_Client"><ellipse cx="565" cy="14" fill="#F1F1F1" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><path d="M565,22 L565,49 M552,30 L578,30 M565,49 L552,64 M565,49 L578,64 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="43" x="543.5" y="78.4951">Client</text></g><g id="elem_GMN239764"><path d="M621.5,31 L621.5,39.5 L586.723,43.5 L621.5,47.5 L621.5,56.1328 A0,0 0 0 0 621.5,56.1328 L840.5,56.1328 A0,0 0 0 0 840.5,56.1328 L840.5,41 L830.5,31 L621.5,31 A0,0 0 0 0 621.5,31 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M830.5,31 L830.5,41 L840.5,41 L830.5,31 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="198" x="627.5" y="48.0669">Клиентский запрос на фильм</text></g><!--MD5=[cac7c1a686f391e437c462811a8d053d]
+link Client to NGINX--><g id="link_Client_NGINX"><path d="M543.309,53.888 C521.993,64.441 490.726,83.799 477,111.5 C463.554,138.637 490.456,162.768 517.961,179.195 " fill="none" id="Client-to-NGINX" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="522.374,181.765,516.6084,173.7801,518.0529,179.2495,512.5836,180.6939,522.374,181.765" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="60" x="478" y="124.5669">1. фильм</text></g><!--MD5=[85690e01bd46bbba3c24af5550d008a9]
+reverse link Client to NGINX--><!--MD5=[85690e01bd46bbba3c24af5550d008a9]
+reverse link Client to NGINX--><g id="link_Client_NGINX"><path d="M578.867,86.688 C581.001,94.836 582.869,103.368 584,111.5 C587.255,134.909 580.396,161.332 574.03,179.46 " fill="none" id="Client-backto-NGINX-1" style="stroke:#008000;stroke-width:1.0;"/><polygon fill="#008000" points="577.508,81.672,576.0002,91.4048,578.8152,86.4981,583.7219,89.3132,577.508,81.672" style="stroke:#008000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="68" x="586" y="124.5669">14. фильм</text></g><!--MD5=[26206a335e5419d5904b943610fbe074]
+link NGINX to Fast_API--><g id="link_NGINX_Fast_API"><path d="M522.483,213.795 C499.712,221.708 473.614,235.19 460,257.5 C442.286,286.529 476.317,310.987 510.256,327.045 " fill="none" id="NGINX-to-Fast_API" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="514.822,329.157,508.3318,321.7491,510.2837,327.0585,504.9742,329.0104,514.822,329.157" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="60" x="461" y="270.5669">2. фильм</text></g><!--MD5=[46b4efcdc6514990a1206753dcbd8961]
+reverse link NGINX to Fast_API--><g id="link_NGINX_Fast_API"><path d="M563.191,230.751 C562.702,239.309 562.242,248.795 562,257.5 C561.358,280.629 562.461,307.096 563.506,325.31 " fill="none" id="NGINX-backto-Fast_API" style="stroke:#008000;stroke-width:1.0;"/><polygon fill="#008000" points="563.497,225.558,558.9742,234.307,563.2027,230.5493,566.9604,234.7778,563.497,225.558" style="stroke:#008000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="69" x="563" y="270.5669">13. держи</text></g><!--MD5=[46b4efcdc6514990a1206753dcbd8961]
+reverse link NGINX to Fast_API--><!--MD5=[1c01e20804ce96d0c8ad4c00b8ef7bce]
+link Fast_API to Flask_auth_api--><g id="link_Fast_API_Flask_auth_api"><path d="M615.028,365.911 C635.982,374.618 659.486,386.99 677,403.5 C678.977,405.364 752.179,537.711 784.226,595.736 " fill="none" id="Fast_API-to-Flask_auth_api" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="786.645,600.116,785.7959,590.3038,784.228,595.739,778.7927,594.1711,786.645,600.116" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="72" x="755" y="498.5669">3. кто это?</text></g><!--MD5=[78a0cf9fa546661f4db836df5edd6b8c]
+reverse link Fast_API to Flask_auth_api--><g id="link_Fast_API_Flask_auth_api"><path d="M620.025,357.933 C690.503,369.989 806.609,394.508 832,428.5 C870.642,480.232 834.24,561.32 812.539,600.221 " fill="none" id="Fast_API-backto-Flask_auth_api" style="stroke:#008000;stroke-width:1.0;"/><polygon fill="#008000" points="615.031,357.087,623.2359,362.5349,619.9607,357.9227,624.5729,354.6474,615.031,357.087" style="stroke:#008000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="115" x="850" y="498.5669">8. все нормально</text></g><!--MD5=[f0c6420a285c16cfcb07ddf795dc564a]
+link Flask_auth_api to Postgres_Auth--><g id="link_Flask_auth_api_Postgres_Auth"><path d="M871.044,623.5 C920.934,623.5 986.89,623.5 1035.71,623.5 " fill="none" id="Flask_auth_api-to-Postgres_Auth" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1040.98,623.5,1031.98,619.5,1035.98,623.5,1031.98,627.5,1040.98,623.5" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="133" x="889.5" y="616.5669">4. есть такой юзер?</text></g><!--MD5=[affd233ea02402032ac568b0a09d22aa]
+reverse link Flask_auth_api to Postgres_Auth--><g id="link_Flask_auth_api_Postgres_Auth"><path d="M876.477,638.75 C906.841,643.05 942.008,645.965 974,643.5 C995.92,641.811 1019.75,638.531 1040.89,635.107 " fill="none" id="Flask_auth_api-backto-Postgres_Auth" style="stroke:#008000;stroke-width:1.0;"/><polygon fill="#008000" points="871.257,637.99,879.5871,643.2445,876.2049,638.7101,880.7393,635.3279,871.257,637.99" style="stroke:#008000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="34" x="939" y="639.5669">5. да</text></g><!--MD5=[1cd36605174e843be4315a6d418add46]
+link Flask_auth_api to Redis_auth--><g id="link_Flask_auth_api_Redis_auth"><path d="M806.063,646.684 C812.675,667.452 822.561,698.505 829.58,720.5528 " fill="none" id="Flask_auth_api-to-Redis_auth" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="831.121,725.3924,832.2018,715.603,829.604,720.6281,824.5789,718.0302,831.121,725.3924" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="161" x="822" y="691.5669">6. токен действителен?</text></g><!--MD5=[1cd36605174e843be4315a6d418add46]
+link Flask_auth_api to Redis_auth--><!--MD5=[19513e8c80f6b38b44a05107fc72317e]
+reverse link Flask_auth_api to Redis_auth--><g id="link_Flask_auth_api_Redis_auth"><path d="M770.176,650.81 C759.144,664.143 750.937,680.619 759,695.5 C765.708,707.8797 776.824,717.7538 788.63,725.4086 " fill="none" id="Flask_auth_api-backto-Redis_auth" style="stroke:#008000;stroke-width:1.0;"/><polygon fill="#008000" points="773.675,646.779,764.7548,650.9539,770.3976,650.555,770.7965,656.1978,773.675,646.779" style="stroke:#008000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="34" x="760" y="691.5669">7. да</text></g><!--MD5=[498db914869202184add1a1d1c167a22]
+link Fast_API to Redis_cache--><g id="link_Fast_API_Redis_cache"><path d="M542.229,371.694 C530.97,385.445 521.12,403.641 528,420.5 C535.606,439.137 550.566,455.58 564.8,468.075 " fill="none" id="Fast_API-to-Redis_cache" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="568.789,471.493,564.5583,462.5991,564.9925,468.2393,559.3524,468.6735,568.789,471.493" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="60" x="529" y="416.5669">9. фильм</text></g><!--MD5=[498db914869202184add1a1d1c167a22]
+link Fast_API to Redis_cache--><!--MD5=[cc0435054c45af87ea6f41b08b601d27]
+reverse link Fast_API to Redis_cache--><g id="link_Fast_API_Redis_cache"><path d="M587.18,376.084 C592.806,384.358 598.08,393.855 601,403.5 C607.756,425.813 605.908,452.705 603.22,471.15 " fill="none" id="Fast_API-backto-Redis_cache" style="stroke:#FF0000;stroke-width:1.0;"/><polygon fill="#FF0000" points="584.03,371.619,585.9482,381.2793,586.9117,375.7051,592.4859,376.6686,584.03,371.619" style="stroke:#FF0000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="62" x="606" y="416.5669">10. пусто</text></g><!--MD5=[b7a57932b18d1d3ee7d40dfffa0e685e]
+link Fast_API to ElasticSearch--><g id="link_Fast_API_ElasticSearch"><path d="M514.714,352.384 C445.552,357.521 326.583,370.954 300,403.5 C285.25,421.558 295.344,447.645 306.986,467 " fill="none" id="Fast_API-to-ElasticSearch" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="309.644,471.27,308.2822,461.5157,307.0011,467.0256,301.4912,465.7444,309.644,471.27" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="68" x="301" y="416.5669">11. фильм</text></g><!--MD5=[02d656cf20a7866fc937e1ba45321d38]
+reverse link Fast_API to ElasticSearch--><g id="link_Fast_API_ElasticSearch"><path d="M509.852,361.758 C478.85,370.298 440.394,383.753 410,403.5 C381.945,421.727 356.707,451.26 341.384,471.376 " fill="none" id="Fast_API-backto-ElasticSearch" style="stroke:#008000;stroke-width:1.0;"/><polygon fill="#008000" points="514.762,360.429,505.0292,358.9212,509.9359,361.7362,507.1208,366.6429,514.762,360.429" style="stroke:#008000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="69" x="411" y="416.5669">12. держи</text></g><!--MD5=[02d656cf20a7866fc937e1ba45321d38]
+reverse link Fast_API to ElasticSearch--><!--MD5=[6e4f3b35cbbd357670d4264c6d4f85a7]
+reverse link Postgres to Movies_admin--><g id="link_Postgres_Movies_admin"><path d="M92,521.736 C92,545.054 92,578.481 92,600.337 " fill="none" id="Postgres-backto-Movies_admin" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="92,516.629,88,525.629,92,521.629,96,525.629,92,516.629" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[c7a0413c9baefa347f334c82d345b77f]
+link ETL_service to ElasticSearch--><g id="link_ETL_service_ElasticSearch"><path d="M167.602,371.607 C195.398,397.671 248.249,440.878 285.525,468.099 " fill="none" id="ETL_service-to-ElasticSearch" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="289.991,471.338,285.0525,462.8168,285.943,468.4031,280.3567,469.2936,289.991,471.338" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[c7a0413c9baefa347f334c82d345b77f]
+link ETL_service to ElasticSearch--><!--MD5=[78ed754550bbf4805215db50472484e9]
+reverse link ETL_service to Postgres--><g id="link_ETL_service_Postgres"><path d="M129.583,376.15 C123.888,384.553 118.135,394.102 114,403.5 C104.269,425.615 98.364,452.78 95.156,471.343 " fill="none" id="ETL_service-backto-Postgres" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="132.73,371.609,124.3169,376.7295,129.8828,375.7191,130.8931,381.285,132.73,371.609" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[8614a781a27355c358ea918ff5382a09]
+@startuml
+"Client"
+
+package web-server #LightGreen {
+    [NGINX] #White
+}
+package Auth_API {
+    [Flask_auth_api] #White
+    database Postgres_Auth #Aqua
+    database Redis_auth
+}
+package ETL {
+    [ETL_service] #White
+}
+package Async_FastAPI {
+    [Fast_API] #White
+    database ElasticSearch #LightPink
+    database Redis_cache
+}
+package Django {
+    [Movies_admin] #White
+    database Postgres #Aqua
+}
+
+'- - - - - - - - - - - -Связи - - - - - - - - - - - - - - -
+[Client] - -> [NGINX]: 1. фильм
+[NGINX] - -> [Fast_API]: 2. фильм
+[Fast_API] - - -> [Flask_auth_api]: 3. кто это?
+[Flask_auth_api] -r-> Postgres_Auth: 4. есть такой юзер?
+[Flask_auth_api] <-[#green] Postgres_Auth: 5. да
+[Flask_auth_api] - -> [Redis_auth]: 6. токен действителен?
+[Flask_auth_api] -[hidden]-> [Redis_auth]
+[Flask_auth_api] <-[#green] [Redis_auth]: 7. да
+[Fast_API] <-[#green]- [Flask_auth_api]: 8. все нормально
+[Fast_API] - -> Redis_cache: 9. фильм
+[Fast_API] -[hidden]-> Redis_cache
+[Fast_API] <-[#red]- Redis_cache: 10. пусто
+[Fast_API] -r-> ElasticSearch: 11. фильм
+[Fast_API] <-[#green]- ElasticSearch: 12. держи
+[Fast_API] <-[hidden]- ElasticSearch
+[NGINX] <-[#green]- [Fast_API]: 13. держи
+[NGINX] <-[hidden]- [Fast_API]
+[Client] <-[hidden]- [NGINX]
+[Client] <-[#green]- [NGINX]: 14. фильм
+Postgres <- - [Movies_admin]
+[ETL_service] - -> ElasticSearch
+[ETL_service] -[hidden]-> ElasticSearch
+[ETL_service] <- - Postgres
+
+'- - - - - - - - - Комментарии - - - - - - - - - -
+note right of [Client]: Клиентский запрос на фильм
+
+'- - - - - - - - - Раскраска - - - - - - - - - - - -
+skinparam PackageBackgroundColor Azure
+skinparam ArrowColor Black
+@enduml
+
+@startuml
+"Client"
+
+package web-server #LightGreen {
+    [NGINX] #White
+}
+package Auth_API {
+    [Flask_auth_api] #White
+    database Postgres_Auth #Aqua
+    database Redis_auth
+}
+package ETL {
+    [ETL_service] #White
+}
+package Async_FastAPI {
+    [Fast_API] #White
+    database ElasticSearch #LightPink
+    database Redis_cache
+}
+package Django {
+    [Movies_admin] #White
+    database Postgres #Aqua
+}
+
+[Client] - -> [NGINX]: 1. фильм
+[NGINX] - -> [Fast_API]: 2. фильм
+[Fast_API] - - -> [Flask_auth_api]: 3. кто это?
+[Flask_auth_api] -r-> Postgres_Auth: 4. есть такой юзер?
+[Flask_auth_api] <-[#green] Postgres_Auth: 5. да
+[Flask_auth_api] - -> [Redis_auth]: 6. токен действителен?
+[Flask_auth_api] -[hidden]-> [Redis_auth]
+[Flask_auth_api] <-[#green] [Redis_auth]: 7. да
+[Fast_API] <-[#green]- [Flask_auth_api]: 8. все нормально
+[Fast_API] - -> Redis_cache: 9. фильм
+[Fast_API] -[hidden]-> Redis_cache
+[Fast_API] <-[#red]- Redis_cache: 10. пусто
+[Fast_API] -r-> ElasticSearch: 11. фильм
+[Fast_API] <-[#green]- ElasticSearch: 12. держи
+[Fast_API] <-[hidden]- ElasticSearch
+[NGINX] <-[#green]- [Fast_API]: 13. держи
+[NGINX] <-[hidden]- [Fast_API]
+[Client] <-[hidden]- [NGINX]
+[Client] <-[#green]- [NGINX]: 14. фильм
+Postgres <- - [Movies_admin]
+[ETL_service] - -> ElasticSearch
+[ETL_service] -[hidden]-> ElasticSearch
+[ETL_service] <- - Postgres
+
+note right of [Client]: Клиентский запрос на фильм
+
+skinparam PackageBackgroundColor Azure
+skinparam ArrowColor Black
+@enduml
+
+PlantUML version 1.2022.7beta1(Unknown compile time)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
