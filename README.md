@@ -20,7 +20,7 @@ http://localhost:8000/api/docs
 ### Задачи
 См. [issue](https://github.com/Chelovek760/ugc_sprint_1_g/issues?q=is%3Aissue+is%3Aclosed)
 ### Результаты анализа
-См. [benchmark](https://github.com/Chelovek760/ugc_sprint_1_g/tree/main/benchmark)
+См. [benchmark](https://github.com/vlad397/ugc_sprint_1/tree/main/benchmark)
 ###  Принципиальная схема работы приложения
 1. Post запросом на /api/film-timestamp/ в body передаются:
 - jwt: str
